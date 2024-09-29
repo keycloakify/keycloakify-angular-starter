@@ -1,2 +1,2 @@
-# keycloakify-angular-starter
-Starter for @keycloakify/angular
+
+Just a POC regarding packaging
