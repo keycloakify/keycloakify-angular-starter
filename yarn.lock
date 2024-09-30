@@ -1700,6 +1700,13 @@
   resolved "https://registry.yarnpkg.com/@jsonjoy.com/util/-/util-1.3.0.tgz#e5623885bb5e0c48c1151e4dae422fb03a5887a1"
   integrity sha512-Cebt4Vk7k1xHy87kHY7KSPLT77A7Ev7IfOblyLZhtYEhrdQ6fX4EoLq3xOQ3O/DRMEh2ok5nyC180E+ABS8Wmw==
 
+"@keycloakify/angular@0.0.1-rc.2":
+  version "0.0.1-rc.2"
+  resolved "https://registry.yarnpkg.com/@keycloakify/angular/-/angular-0.0.1-rc.2.tgz#ff3db3b96af53ac6f728f14ea8b700292fb1f46f"
+  integrity sha512-oNX0AZi65zny8+RKdguZNWpDIyrvIARQ7a+MLVpFXN+qFHiA5EKFYp39cqHJbB66U8n5Kbi3IiuXKWMZY0xvmA==
+  dependencies:
+    tsafe "^1.6.6"
+
 "@leichtgewicht/ip-codec@^2.0.1":
   version "2.0.5"
   resolved "https://registry.yarnpkg.com/@leichtgewicht/ip-codec/-/ip-codec-2.0.5.tgz#4fc56c15c580b9adb7dc3c333a134e540b44bfb1"
@@ -4565,6 +4572,13 @@ karma@~6.4.0:
     ua-parser-js "^0.7.30"
     yargs "^16.1.1"
 
+keycloakify@^11.2.2:
+  version "11.2.2"
+  resolved "https://registry.yarnpkg.com/keycloakify/-/keycloakify-11.2.2.tgz#316b562ad3545e304571d37543d69afdf62d552c"
+  integrity sha512-QiRTAyiya3zpuwnzuiSJiEKaBGe7Dk0NaAIKfv+bUaXPMsEAncQHaHBCeMy5vACfxIiMpBjdLAgIpPT9br7Qwg==
+  dependencies:
+    tsafe "^1.6.6"
+
 kind-of@^6.0.2:
   version "6.0.3"
   resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-6.0.3.tgz#07c05034a6c349fa06e24fa35aa76db4580ce4dd"
@@ -6450,6 +6464,11 @@ tree-kill@1.2.2:
   version "1.2.2"
   resolved "https://registry.yarnpkg.com/tree-kill/-/tree-kill-1.2.2.tgz#4ca09a9092c88b73a7cdc5e8a01b507b0790a0cc"
   integrity sha512-L0Orpi8qGpRG//Nd+H90vFB+3iHnue1zSSGmNOOCh1GLJ7rUKVwV2HvijphGQS2UmhUZewS9VgvxYIdgr+fG1A==
+
+tsafe@^1.6.6:
+  version "1.7.2"
+  resolved "https://registry.yarnpkg.com/tsafe/-/tsafe-1.7.2.tgz#0f63d414876287ad01b135f832722f93e22da374"
+  integrity sha512-dAPfQLhCfCRre5qs+Z5Q2a7s2CV7RxffZUmvj7puGaePYjECzWREJFd3w4XSFe/T5tbxgowfItA/JSSZ6Ma3dA==
 
 tslib@2.6.3:
   version "2.6.3"
